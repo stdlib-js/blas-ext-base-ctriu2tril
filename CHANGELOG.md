@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-30)
+## Unreleased (2026-09-01)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`18e0edd`](https://github.com/stdlib-js/stdlib/commit/18e0edd676ba23dbdfa29c91cb9b660a052885c8) - **refactor:** add support for enums in `blas/ext/base/*triu2tril` [(#14886)](https://github.com/stdlib-js/stdlib/pull/14886) _(by Kaustubh Patange)_
 -   [`70afcc0`](https://github.com/stdlib-js/stdlib/commit/70afcc02b8cac36d01fe50347cb49339d26147d7) - **feat:** add `blas/ext/base/ctriu2tril` [(#13990)](https://github.com/stdlib-js/stdlib/pull/13990) _(by Kaustubh Patange, Athan Reines)_
 
 </details>
